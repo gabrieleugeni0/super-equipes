@@ -6,4 +6,4 @@
 
 **Descrição**: Atualmente a X-Force atua como a **CIA de Krakoa, a nação mutante.** Os integrantes são os responsáveis por proteger o país das **ameaças externas.** Uma das Leis de Krakoa diz que os mutantes não podem matar humanos, **mas a X-Force tem a prerrogativa de matar humanos se for necessário.**
 
-### [Voltar](https://github.com/gabrieleugeni0/super-equipes/blob/main/README.md)
+### [Voltar](README.md)
